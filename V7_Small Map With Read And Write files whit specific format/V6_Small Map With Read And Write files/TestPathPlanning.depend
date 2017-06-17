@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1489184841 source:e:\programes\cocdeblock\work of codeblocks\testpathplanning\main.cpp
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<stdio.h>
+	<stack>
+
+1491815713 source:f:\courses\collage\graduation project\tasks\path planning\c++ code\testpathplanningbackup\v4_bigmap\testpathplanning\main.cpp
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<stdio.h>
+	<stack>
+
+1492629425 source:f:\courses\collage\graduation project\tasks\path planning\c++ code\testpathplanningbackup\v5_test read and write in file\main.cpp
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<stdio.h>
+	<stack>
+	<fstream>
+	<vector>
+	<algorithm>
+	<sstream>
+
+1492892841 source:f:\courses\collage\graduation project\tasks\path planning\c++ code\testpathplanningbackup\v6_small map with read and write files\main.cpp
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<stdio.h>
+	<stack>
+	<fstream>
+	<vector>
+	<algorithm>
+	<sstream>
+
+1495734726 source:f:\courses\collage\graduation project\tasks\path planning\c++ code\testpathplanningbackup\v6_small map with read and write files\v6_small map with read and write files\main.cpp
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<stdio.h>
+	<stack>
+	<fstream>
+	<vector>
+	<algorithm>
+	<sstream>
+
+1496229319 source:c:\users\khloud ayman\downloads\v7_small-map-with-read-and-write-files-whit-specific-format\v7_small map with read and write files whit specific format\v6_small map with read and write files\main.cpp
+	<iostream>
+	<iomanip>
+	<queue>
+	<string>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<stdio.h>
+	<stack>
+	<fstream>
+	<vector>
+	<algorithm>
+	<sstream>
+
